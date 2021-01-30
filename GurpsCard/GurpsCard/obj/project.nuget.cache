@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pG5vcBvOl+SLKfu8ia74Aa0NHCiz/SK9zPm56bRj5zTbkz+w+74Go4Dz7rYPeur/l77XLi0KPVuTzHhfvZsgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\source\\repos\\GurpsCard\\GurpsCard\\GurpsCard\\GurpsCard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
