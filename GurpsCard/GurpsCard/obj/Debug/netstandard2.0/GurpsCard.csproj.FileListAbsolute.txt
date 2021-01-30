@@ -2,10 +2,6 @@ C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
-C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
-C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
-C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
-C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\GurpsCard.AssemblyInfoInputs.cache
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\GurpsCard.AssemblyInfo.cs
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\GurpsCard.csproj.CoreCompileInputs.cache
@@ -17,3 +13,5 @@ C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\GurpsCard.dll
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\ref\GurpsCard.dll
 C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\GurpsCard.pdb
+C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\Views\CardsDetailView.xaml.g.cs
+C:\Users\lukas\source\repos\GurpsCard\GurpsCard\GurpsCard\obj\Debug\netstandard2.0\Views\CardsView.xaml.g.cs

@@ -11,7 +11,7 @@ namespace GurpsCard
         public AppShell()
         {
             InitializeComponent();
-            Routing.RegisterRoute(nameof(ItemDetailPage), typeof(ItemDetailPage));         
+            Routing.RegisterRoute(nameof(CardsDetailView), typeof(CardsDetailView));         
         }
 
         private async void OnMenuItemClicked(object sender, EventArgs e)
